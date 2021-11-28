@@ -13,6 +13,7 @@ The new wepage
  - cleans up the css.
  - consolidated CSS Selectors and properites.
  - adds alternative text to images.
+ 
  making the wepage Search engine optimized and accesible.
 
 

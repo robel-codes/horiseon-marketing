@@ -9,11 +9,11 @@ The new and improved Horiseon-marketing webpage uses proper semantic elements, a
 ## what
 
 The new wepage 
- -follows new semantic structure of elements.
- -cleans up the css.
- -consolidated CSS Selectors and properites.
- -adds alternative text to images.
-making the wepage Search engine optimized and accesible.
+ - follows new semantic structure of elements.
+ - cleans up the css.
+ - consolidated CSS Selectors and properites.
+ - adds alternative text to images.
+ making the wepage Search engine optimized and accesible.
 
 
 

@@ -17,6 +17,6 @@ making the wepage Search engine optimized and accesible.
 
 
 
- - For description of the old code : screenshoots ![Screenshoot of old html structure](assets/images/oldcode_screenshot.png)                                       v ![Screenshoot of Old CSS ](assets/images/CSS_screenshot.png)
+ - For description of the old code : screenshoots ![Screenshot of old html structure](assets/images/oldcode_screenshot.png)                                                          CSS Screenshot![Screenshot of Old CSS ](assets/images/CSS_screenshot.png)
 
- - The new and improved webpage [VS Code GitHub repository](https://robel-codes.github.io/horiseon-marketing/).
+ - The new and improved webpage [Horiseon-marketing](https://robel-codes.github.io/horiseon-marketing/).

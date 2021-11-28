@@ -18,6 +18,6 @@ The new wepage
 
 
 
- - For description of the old code : screenshoots ![Screenshot of old html structure](assets/images/oldcode_screenshot.png)                                                          CSS Screenshot![Screenshot of Old CSS ](assets/images/CSS_screenshot.png)
+ - For description of the old code : screenshots ![Screenshot of old html structure](assets/images/oldcode_screenshot.png)                                                          CSS Screenshot![Screenshot of Old CSS ](assets/images/CSS_screenshot.png)
 
  - The new and improved webpage [Horiseon-marketing](https://robel-codes.github.io/horiseon-marketing/).
